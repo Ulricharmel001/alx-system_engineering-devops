@@ -5,7 +5,7 @@ Added alias script that created custom command
  A script that display current linux user when run 
 
  # list Env Variables
- Added script 4-global_variable, that list all env variables 
+ Added script 4-global_variable, that lists all env variables 
 
  # List Env, Local variable and functions
 

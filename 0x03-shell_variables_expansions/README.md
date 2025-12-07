@@ -16,4 +16,8 @@ Added alias script that created custom command
 
  Addded a script that create local variable called BEST with value School when executed
  the script is 6-create_local_variable
+
+ # Number system
+
+ Added script  that convert binary to decimal 
  
