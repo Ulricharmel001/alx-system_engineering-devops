@@ -6,3 +6,7 @@ Added alias script that created custom command
 
  # list Env Variables
  Added script 4-global_variable, that list all env variables 
+
+ # List Env, Local variable and functions
+
+ Added scrit that list env and local variables as well as function 
