@@ -10,3 +10,7 @@ Added alias script that created custom command
  # List Env, Local variable and functions
 
  Added scrit that list env and local variables as well as function 
+
+ # Maths Operations
+ Added a script and carry out addition and store the value in  an env variable 
+ called TRUEKNOWLEDGE
