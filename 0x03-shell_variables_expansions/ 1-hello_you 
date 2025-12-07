@@ -1,0 +1,4 @@
+# Script to display current user name 
+echo "Hello $(whoami)!"
+we can also use $USER variable
+echo "Hello $USER!"
