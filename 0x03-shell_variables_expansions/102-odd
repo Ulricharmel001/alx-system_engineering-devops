@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( (5#$WATER + 6#$STIR) ))
+grep -n "" | grep -E '^[0-9]*[13579]:' | cut -d: -f2-
