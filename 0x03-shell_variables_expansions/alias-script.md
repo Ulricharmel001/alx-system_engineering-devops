@@ -37,4 +37,8 @@ One combination per line
 The output should be alpha ordered, starting with aa
 the script file contain maximum 64 characters
 
+# 102-odd
+A script that prints every other 
+line from the input, starting with the first line.
+
 
