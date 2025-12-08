@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((5#$WATER + 6#$STIR))
+echo "0123456789a" | { read -r digits; echo "${digits:$((10#$WATER + 10#$STIR)):1}"; }
