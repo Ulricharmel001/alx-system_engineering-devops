@@ -21,3 +21,10 @@ Added alias script that created custom command
  # Print Float 
 
   A script that print number in two decimal place only  
+
+# From Dicimal to HEX
+
+script that converts a number from base 10 to base 16.
+
+The number in base 10 is stored in the environment variable DECIMAL
+The script display the number in base 16, followed by a new line
