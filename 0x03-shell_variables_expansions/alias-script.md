@@ -17,3 +17,7 @@ Added alias script that created custom command
 
  # Aphabet Combinations from a-z 
  This script generates all combinations of two letters from a to z, excluding "oo".
+
+ # Print Float 
+
+  A script that print number in two decimal place only  
