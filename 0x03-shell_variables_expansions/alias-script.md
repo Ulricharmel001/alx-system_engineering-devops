@@ -14,3 +14,6 @@ Added alias script that created custom command
  # Maths Operations
  Added a script and carry out addition and store the value in  an env variable 
  called TRUEKNOWLEDGE
+
+ # Aphabet Combinations from a-z 
+ This script generates all combinations of two letters from a to z, excluding "oo".
