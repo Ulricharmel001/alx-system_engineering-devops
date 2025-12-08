@@ -28,3 +28,13 @@ script that converts a number from base 10 to base 16.
 
 The number in base 10 is stored in the environment variable DECIMAL
 The script display the number in base 16, followed by a new line
+
+# Encryption of letter with ROT13
+A script that prints all possible combinations of two letters, except oo.
+
+Letters are lower cases, from a to z
+One combination per line
+The output should be alpha ordered, starting with aa
+the script file contain maximum 64 characters
+
+
